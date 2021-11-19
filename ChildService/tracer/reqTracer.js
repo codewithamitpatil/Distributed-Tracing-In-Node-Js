@@ -8,7 +8,7 @@ function initTracer () {
 const config = {
     serviceName: "ChildService",
     reporter: {
-        agentHost: '13.232.103.57',
+        agentHost: '',
         agentPort:  6832,
         logSpan: true,
     },
